@@ -8,7 +8,7 @@ import Location from "./Routes/Location";
 function App() {
   return (
    <Routes>
-    <Route path="/" element={<Home />} />
+    <Route path="/Tagemi" element={<Home />} />
     <Route path="/about" element={<About />} />
     <Route path="/LiveStreaming" element={<Streaming  />} />
     <Route path="/location" element={<Location />} />
