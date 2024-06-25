@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Tagemi/static/css/main.5757bfe1.css",
-    "main.js": "/Tagemi/static/js/main.42977a22.js",
+    "main.js": "/Tagemi/static/js/main.c93690a3.js",
     "static/js/453.5d4738a6.chunk.js": "/Tagemi/static/js/453.5d4738a6.chunk.js",
     "static/media/background.jpg": "/Tagemi/static/media/background.d3a2603b9d5ce0de2ee6.jpg",
     "static/media/Church.jpeg": "/Tagemi/static/media/Church.2ea07520fb147fee0525.jpeg",
     "static/media/tagemi logo.png": "/Tagemi/static/media/tagemi logo.aa6e0454413ba03abacc.png",
     "index.html": "/Tagemi/index.html",
     "main.5757bfe1.css.map": "/Tagemi/static/css/main.5757bfe1.css.map",
-    "main.42977a22.js.map": "/Tagemi/static/js/main.42977a22.js.map",
+    "main.c93690a3.js.map": "/Tagemi/static/js/main.c93690a3.js.map",
     "453.5d4738a6.chunk.js.map": "/Tagemi/static/js/453.5d4738a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5757bfe1.css",
-    "static/js/main.42977a22.js"
+    "static/js/main.c93690a3.js"
   ]
 }
