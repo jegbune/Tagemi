@@ -28,7 +28,7 @@ useEffect(()=> {
 
   return (
     <div className={color? 'nav color': 'nav'}>
-        <Link to='/'className='logo-container' >
+        <Link to='/Tagemi'className='logo-container' >
             <img src={logo} className='logo' alt='logo' />
             <p className='logo-text'>Truth & Grace Evangelical Mission Int'l</p>
         </Link>
